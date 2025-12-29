@@ -1,1 +1,1 @@
-https://single-pagecv.netlify.app/
+https://roadmap.sh/projects/single-page-cv
